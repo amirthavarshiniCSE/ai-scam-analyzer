@@ -17,8 +17,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/your-username/ai-scam-analyzer?style=for-the-badge&color=gold" />
-  <img src="https://img.shields.io/github/forks/your-username/ai-scam-analyzer?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/license/your-username/ai-scam-analyzer?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/forks/amirthavarshiniCSE/ai-scam-analyzer?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/license/amirthavarshiniCSE/ai-scam-analyzer?style=for-the-badge&color=green" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
 </p>
 
@@ -136,7 +136,7 @@ Integrated feedback mechanism for false-positive/false-negative reporting and fu
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-scam-analyzer.git
+git clone https://github.com/amirthavarshiniCSE/ai-scam-analyzer.git
 cd ai-scam-analyzer
 ```
 
