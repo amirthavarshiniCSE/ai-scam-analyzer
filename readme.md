@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005571,100:EF4444&height=180&section=header&text=AegisTrust%20Platform&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Defense%20Lab%202026%20%E2%80%A2%20Track%202%20-%20Fraud%20%26%20Identity%20Defense&descAlignY=58&descSize=18" width="100%"/>
+# 🛡️ AegisTrust Platform
+### AI Defense Lab 2026 • Track 2 — Fraud & Identity Defense
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Real-Time+Scam+%26+Fraud+Detection+Engine;Explainable+AI+%E2%80%A2+Not+a+Black+Box;Built+with+FastAPI+%2B+Next.js+13+%2B+Framer+Motion" alt="Typing SVG" />
 
@@ -197,8 +198,11 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:005571&height=120&section=footer" width="100%"/>
+---
 
-**Built with ❤️ for AI Defense Lab 2026**
+<img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4-EF4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Defense%20Lab-2026-005571?style=for-the-badge" />
+
+**AegisTrust Platform** — Fraud & Identity Defense, done right.
 
 </div>
