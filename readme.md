@@ -96,6 +96,8 @@ Detects psychological pressure triggers, urgency vectors, and obfuscated phishin
 ### ⚖️ Proportional Intervention
 Automatically routes threat telemetry into graded responses — **Immediate Block**, **User Warning Banner**, or **Clear**.
 
+*   **Threat Intel & Fraud Clustering:** Cross-references incoming IP telemetry against simulated global dark-web feeds to instantly link threats to known fraud clusters and associated entities.
+
 </td>
 <td width="50%">
 
