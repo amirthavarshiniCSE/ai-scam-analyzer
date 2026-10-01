@@ -113,16 +113,7 @@ Integrated feedback mechanism for false-positive/false-negative reporting and fu
 
 ---
 
-## 🎥 Live Demo
 
-<div align="center">
-
-<!-- Replace with your actual demo GIF or hosted clip -->
-<img src="[https://your-image-host.com/aegistrust-demo.gif](https://www.youtube.com/watch?v=1F2sKhQ_pWk&t=3s)" width="80%" alt="AegisTrust Demo"/>
-
-*Dashboard reacting live to an incoming scam payload — replace this GIF with your own screen recording.*
-
-</div>
 
 ---
 
@@ -148,7 +139,7 @@ cd backend
 pip install -r requirements.txt
 python -m uvicorn main:app --reload
 ```
-> Backend will be live at `http://localhost:8000`
+> Backend will be live at `https://ai-scam-analyzer-nc6l.onrender.com/`
 
 ### 3️⃣ Launch the Frontend (Next.js)
 Open a second terminal window:
